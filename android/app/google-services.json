@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832766092439",
+    "firebase_url": "https://hotel-hunter-1567112864407.firebaseio.com",
+    "project_id": "hotel-hunter-1567112864407",
+    "storage_bucket": "hotel-hunter-1567112864407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832766092439:android:668eda0b3691066ee7b5d2",
+        "android_client_info": {
+          "package_name": "com.mammothinteractive.hotelHunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832766092439-kn4qr4nhr38t71l9h9q1fvfdg56g5irg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2YsyLBgI_C9YA_6Io8dml5mNsgGbNzpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832766092439-kn4qr4nhr38t71l9h9q1fvfdg56g5irg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832766092439-h8s21iadrf6llv75ifthjpo74cddvrbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mammothinteractive.hotelHunter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
